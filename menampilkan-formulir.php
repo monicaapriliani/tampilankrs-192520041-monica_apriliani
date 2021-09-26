@@ -8,7 +8,7 @@
                 width: 100%;
                 }
 
-                #form td, #data th {
+                #form td, #form th {
                 border: 1px solid #ddd;
                 padding: 8px;
                 }
